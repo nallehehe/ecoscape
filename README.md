@@ -7,6 +7,10 @@ EcoScape is a fullstack web application built as a group project across multiple
 
 During the project I primarily acted as the scrum master and during development focused on users & host, token based authentication (JWT) and documented our API.
 
+## Frontend
+
+https://github.com/nallehehe/ecoscape-frontend
+
 POSTMAN DOCUMENTATION:
 
 https://documenter.getpostman.com/view/40897736/2sAYk7SjT2
